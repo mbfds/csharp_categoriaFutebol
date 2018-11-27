@@ -1,0 +1,10 @@
+D:\etec\exercicio\ProgramaCategoria\ProgramaCategoria\bin\Debug\ProgramaCategoria.exe.config
+D:\etec\exercicio\ProgramaCategoria\ProgramaCategoria\bin\Debug\ProgramaCategoria.exe
+D:\etec\exercicio\ProgramaCategoria\ProgramaCategoria\bin\Debug\ProgramaCategoria.pdb
+D:\etec\exercicio\ProgramaCategoria\ProgramaCategoria\obj\Debug\ProgramaCategoria.csprojAssemblyReference.cache
+D:\etec\exercicio\ProgramaCategoria\ProgramaCategoria\obj\Debug\ProgramaCategoria.Form1.resources
+D:\etec\exercicio\ProgramaCategoria\ProgramaCategoria\obj\Debug\ProgramaCategoria.Properties.Resources.resources
+D:\etec\exercicio\ProgramaCategoria\ProgramaCategoria\obj\Debug\ProgramaCategoria.csproj.GenerateResource.cache
+D:\etec\exercicio\ProgramaCategoria\ProgramaCategoria\obj\Debug\ProgramaCategoria.csproj.CoreCompileInputs.cache
+D:\etec\exercicio\ProgramaCategoria\ProgramaCategoria\obj\Debug\ProgramaCategoria.exe
+D:\etec\exercicio\ProgramaCategoria\ProgramaCategoria\obj\Debug\ProgramaCategoria.pdb
